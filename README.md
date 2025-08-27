@@ -38,9 +38,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: JANANI S
+### Name: Shehan Shajahan
 
-### Register Number: 212222230049
+### Register Number: 212223240154
 
 ```py
 import torch
